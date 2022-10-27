@@ -23,7 +23,7 @@ const DUMMY_EXPENSES = [
 	},
 	
 	{
-		id: 2,
+		id: 3,
 		title: 'ATM Withdrawal',
 		amount: 21.78,
 		date: new Date(2022, 10, 28),
