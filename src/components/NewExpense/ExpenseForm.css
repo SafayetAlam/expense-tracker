@@ -1,0 +1,25 @@
+.new-expense__controls {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	margin-bottom: 1rem;
+	text-align: left;
+}
+
+.new-expense__controls label {
+	font-weight: bold;
+	margin-bottom: 0.3rem;
+	display: block;
+}
+
+.new-expense__controls input {
+	font: inherit;
+	padding: 0.3rem;
+	border-radius: 6px;
+	border: 1px solid #ccc;
+	width: 100%;
+}
+
+.new-expense__actions {
+	text-align: right;
+}
