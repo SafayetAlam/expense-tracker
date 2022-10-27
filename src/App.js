@@ -6,20 +6,27 @@ const DUMMY_EXPENSES = [
 	{
 		id: 0,
 		title: 'Car Insurance',
-		amount: 7.78,
-		date: new Date(2020, 5, 28),
+		amount: 17.78,
+		date: new Date(2022, 2, 28),
 	},
 	{
 		id: 1,
 		title: 'House Insurance',
-		amount: 97.78,
-		date: new Date(2021, 8, 28),
+		amount: 25.78,
+		date: new Date(2022, 4, 28),
 	},
 	{
 		id: 2,
 		title: 'Life Insurance',
-		amount: 47.78,
-		date: new Date(2022, 3, 28),
+		amount: 10.78,
+		date: new Date(2022, 6, 28),
+	},
+	
+	{
+		id: 2,
+		title: 'ATM Withdrawal',
+		amount: 21.78,
+		date: new Date(2022, 10, 28),
 	},
 ];
 
